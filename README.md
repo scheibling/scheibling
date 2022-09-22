@@ -5,10 +5,8 @@
 $ whoami
 lars
 
-# My name is Lars, and I'm a software developer/DevOps Engineer.
-# I currently live in Sweden, and my free time is currently mostly spent messing around with SSH Certificates.
-# You'll find some of my products in my organization (scheiblingco.github.com), mostly because I really like codespaces
-# and haven't been invited to the public beta yet.
+# My name is Lars, and I'm a software developer/DevOps Engineer currently working for Hoglandets IT 
+# and running Scheibling Consulting and Cloudyne Systems.
 ```
 
 ## whereis
