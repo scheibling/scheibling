@@ -16,6 +16,8 @@ lars
 $ whereis scheibling
 scheibling: https://github.com/scheibling
             https://github.com/scheiblingco
+            https://github.com/cloudynes
+            https://github.com/Hoglandets-IT
             https://scheibling.se/category/blog
             https://docs.ssosh.io
 ```
@@ -45,8 +47,9 @@ $ ls -al /usr/share/doc/capabilities
 -rwxr-xr-x  1 root root     5479736 Apr 1  2021 haproxy
 -rwxr-xr-x  1 root root     5479736 Apr 1  2021 ssh
 -rwxr-xr-x  1 root root     5479736 Apr 1  2021 oauth2
--rwxr-xr-x  1 root root     5479736 Apr 1  2021 openidconnect
+-rwxr-xr-x  1 root root     5479736 Apr 1  2021 openid-connect
 -rwxr-xr-x  1 root root     5479736 Apr 1  2021 saml2
+-rwxr-xr-x  1 root root     5479736 Apr 1  2021 go
 ```
 
 ```powershell
